@@ -4,8 +4,12 @@ body{
     font-family: "Chelsea Market"; system-ui;
 }
 
-cabecalho {
+.cabecalho {
     background-color: blue;
     text-align: center    ;
     padding: 20px;
+}
+.cachorro-pirulito {
+    width: 80px;
+    height: 80px;
 }
