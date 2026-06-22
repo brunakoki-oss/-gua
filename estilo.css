@@ -13,3 +13,9 @@ body{
     width: 80px;
     height: 80px;
 }
+main{
+    background-color: azure;
+    color: black;
+    margin: 0 auto;
+    padding: 16px
+}
