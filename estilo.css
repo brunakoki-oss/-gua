@@ -1,7 +1,7 @@
 body{
     background-color: aquamarine;
     color: black;
-    font-family: "Chelsea Market"; system-ui;
+    
 }
 
 .cabecalho {
@@ -22,6 +22,6 @@ main{
 article{
     display: flex;
 }
-texto-post{
+.texto-post{
     margin-left: 40px;
 }
