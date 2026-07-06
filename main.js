@@ -11,4 +11,5 @@ console.log("botao clicado")
  if (curtiu ==false){
     texto.textContent++
 }
+}
 })
