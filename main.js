@@ -7,6 +7,8 @@ botao.addEventListener("click", botaoClicado)
 
 function botaoClicado () {
 console.log("botao clicado")
-    
+   let texto = botao.querySelector("span")
+ if (curtiu ==false){
+    texto.textContent++
 }
 })
